@@ -31,20 +31,23 @@ The project was developed using **Git + GitHub** for version control and emphasi
 ## 🌆 Screenshots
 
 ### 🖥️ Desktop View  
-<img src="https://github.com/user-attachments/assets/e0dafdd7-5e5c-4b67-86b0-a9cefad8073e" width="70%">
 
-<img src="https://github.com/user-attachments/assets/f388383d-6ca3-41d2-94f9-bff2a5e55178" width="70%">
 
-<img src="https://github.com/user-attachments/assets/1b7ab416-5b5d-46a5-8f40-f77990f4af5d" width="70%">
+<img src="https://github.com/user-attachments/assets/8d5a5a5b-4ccd-406b-a29d-5fa27cb902eb" width="60%">
+
+<img src="https://github.com/user-attachments/assets/ed29c9ca-9e4c-42f4-8afd-5b8a0392211b" width="60%">
+
+<img src="https://github.com/user-attachments/assets/62e39378-b198-461e-901b-5d6382537702" width="60%">
 
 
 ### 📱 Mobile View  
-<img src="https://github.com/user-attachments/assets/1ac567ba-8400-4a60-a88f-73b9ac1c5814" width="30%">
+<img src="https://github.com/user-attachments/assets/13adb27a-6b85-4dd1-a8a4-ff1f799782cd" width="30%">
 
-<img src="https://github.com/user-attachments/assets/bd1ee4f4-0229-4612-84ef-8c6c30073d04" width="30%">
+<img src="https://github.com/user-attachments/assets/f19f8cd7-02d5-448f-b57d-cb6d00c77e46" width="30%">
 
-<img src="https://github.com/user-attachments/assets/e965a9a7-40fc-48a2-a03e-bc919ac547c5" width="30%">
+<img src="https://github.com/user-attachments/assets/5f99e6a0-d925-48fa-9b6f-47e185698a2d" width="30%">
 
 
 ### Thank's for your attention!
+
 
